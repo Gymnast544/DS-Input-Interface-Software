@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="Minimalist" author="proximity" type="snes">
+
+    <background name="Black" image="black.png" />
+    <background name="Grey" image="grey.png" />
+    <background name="Brown" image="brown.png" />
+    <background name="Red" image="red.png" />
+    <background name="Yellow" image="yellow.png" />
+    <background name="Green" image="green.png" />
+    <background name="Blue" image="blue.png" />
+    <background name="Purple" image="purple.png" />
+    <background name="SNES" image="snes.png" />
+	<background name="SFC" image="sfc.png" />
+
+    <button name="a" image="circle.png" x="818" y="201" />
+    <button name="b" image="circle.png" x="729" y="290" />
+    <button name="x" image="circle.png" x="729" y="111" />
+    <button name="y" image="circle.png" x="639" y="201" />
+
+    <button name="l" image="shoulder.png" x="78" y="52" />
+    <button name="r" image="shoulder.png" x="654" y="52" />
+
+    <button name="start" image="select.png" x="493" y="269" />
+    <button name="select" image="select.png" x="352" y="269" />
+
+    <button name="up" image="up.png" x="164" y="111" />
+    <button name="down" image="down.png" x="164" y="257" />
+    <button name="left" image="left.png" x="63" y="211" />
+    <button name="right" image="right.png" x="209" y="211" />
+
+</skin>

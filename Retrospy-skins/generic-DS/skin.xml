@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="DS Input Display" author="Gymnast544" type="generic">
+
+    <background name="Default" image="ds button overlay.png" />
+
+    <button name="b0"  image="button.png" x="515"  y="88" />
+    <button name="b1"  image="button.png" x="484"  y="120" />
+    <button name="b2"  image="button.png" x="484" y="58" />
+    <button name="b3"  image="button.png" x="454" y="88" />
+    <button name="b4"  image="button.png" x="34" y="102" />
+    <button name="b5"  image="button.png" x="96" y="102" />
+    <button name="b6"  image="button.png" x="65" y="73" />
+    <button name="b7"  image="button.png" x="65" y="133" />
+    <button name="b8"  image="button.png" x="40" y="4" />
+    <button name="b9"  image="button.png" x="495" y="4" />
+    <button name="b10" image="button.png" x="446" y="188" />
+    <button name="b11" image="button.png" x="446" y="220" />
+
+</skin>

@@ -1,0 +1,4 @@
+et-xmlfile==1.0.1
+keyboard==0.13.5
+pygame==1.9.6
+pyserial==3.4
