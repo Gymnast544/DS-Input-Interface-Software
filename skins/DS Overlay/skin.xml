@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="DS Overlay" author="MyLittleWalrus" type="SNES">
+
+    <background name="DS" image="ds skin.png" />
+	<background name="Blank (solid green)" image="blank.png" />
+
+    <button name="a"  image="facebuttons.png" x="559"  y="154" />
+    <button name="b"  image="facebuttons.png" x="526"  y="187" />
+    <button name="x"  image="facebuttons.png" x="526" y="121" />
+    <button name="y"  image="facebuttons.png" x="494" y="154" />
+    <button name="left"  image="left.png" x="30" y="157" />
+    <button name="right"  image="right.png" x="94" y="157" />
+    <button name="up"  image="up.png" x="62" y="125" />
+    <button name="down"  image="down.png" x="62" y="189" />
+    <button name="l"  image="l.png" x="0" y="0" />
+    <button name="r"  image="r.png" x="521" y="0" />
+    <button name="start" image="start.png" x="546" y="70" />
+    <button name="select" image="select.png" x="498" y="70" />
+
+</skin>
