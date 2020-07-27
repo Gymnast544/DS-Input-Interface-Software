@@ -327,7 +327,8 @@ def endSerial():
     comportconnectbutton['state']='normal'
         
 def changeMode():
-    sendByte(interfacemode.get()+50)
+    sendByte(int(interfacemode.get())+50)
+    print("Changed mode to: ",interfacemode.get())
     if interfacemode.get()==0:
         newstate = 'normal'
     else:

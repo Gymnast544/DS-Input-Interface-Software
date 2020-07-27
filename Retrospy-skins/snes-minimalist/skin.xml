@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="Minimalist" author="proximity" type="generic">
+
+    <background name="Black" image="black.png" />
+    <background name="Grey" image="grey.png" />
+    <background name="Brown" image="brown.png" />
+    <background name="Red" image="red.png" />
+    <background name="Yellow" image="yellow.png" />
+    <background name="Green" image="green.png" />
+    <background name="Blue" image="blue.png" />
+    <background name="Purple" image="purple.png" />
+    <background name="SNES" image="snes.png" />
+	<background name="SFC" image="sfc.png" />
+
+    <button name="b0" image="circle.png" x="818" y="201" />
+    <button name="b1" image="circle.png" x="729" y="290" />
+    <button name="b2" image="circle.png" x="729" y="111" />
+    <button name="b3" image="circle.png" x="639" y="201" />
+
+    <button name="b8" image="shoulder.png" x="78" y="52" />
+    <button name="b9" image="shoulder.png" x="654" y="52" />
+
+    <button name="b10" image="select.png" x="493" y="269" />
+    <button name="b11" image="select.png" x="352" y="269" />
+
+    <button name="b6" image="up.png" x="164" y="111" />
+    <button name="b7" image="down.png" x="164" y="257" />
+    <button name="b4" image="left.png" x="63" y="211" />
+    <button name="b5" image="right.png" x="209" y="211" />
+
+</skin>

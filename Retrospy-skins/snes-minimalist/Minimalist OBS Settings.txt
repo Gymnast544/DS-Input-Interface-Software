@@ -1,0 +1,27 @@
+Minimalist OBS Settings
+
+To have buttons appear with an outline:
+
+Add an "Image Mask/Blend" Filter
+
+Type: Alpha Mask (Alpha Channel)
+Path: [click "Browse" and select the "alpha.png" in the nes-minimalist folder]
+
+To have the buttons "float" (no black background)
+
+Add a "Color Key" Filter
+
+Key Color Type: Custom Color
+Key Color: #000000000
+Similarity: 80
+Smoothness: 50
+
+To have the buttons only show when you press them:
+
+Add a "Color Key" Filter
+
+Key Color Type: Custom Color
+Key Color: #000000000
+Similarity: 600
+Smoothness: 100
+
