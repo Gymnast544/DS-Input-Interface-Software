@@ -1,0 +1,106 @@
+BATTERYPOWERON #set it to power on
+DELAY 365 
+A
+DELAY 150
+D
+X
+D
+
+R
+
+R
+
+R
+
+R
+
+A #Select g
+
+U
+
+R
+
+A #Select y
+
+D
+
+D
+
+R
+
+A #Select m
+
+L
+
+A #Select n
+
+L
+
+L
+
+L
+
+L
+
+L
+
+U
+
+A #select a
+
+R
+
+A #select s
+
+R
+
+R
+
+U
+
+R
+
+A #select t
+
+U
+
+L
+
+A #select 5
+
+L
+
+A #select 4
+
+A #select 4
+
+U
+
+R
+
+A #hit the confirm button - move onto color
+DELAY 220
+A #hit the confirm button - move onto date
+DELAY 220
+LOOP U 3 #selecting the month
+R
+LOOP U 19 #selecting the date
+R
+LOOP U 69 #selecting the year
+A #hit the confirm button - move onto time
+DELAY 220
+LOOP U 4 #selecting the hour
+R
+LOOP U 20 #selecting the minute
+A #hit the confirm button - move onto birthday
+DELAY 220
+A
+DELAY 220
+A
+PWR #presses a and then does the restart command
+
+DELAY 300
+B
+DELAY 200
+A #opens the game
+DELAY 300

@@ -1,0 +1,1 @@
+This was provided for the first batch of input interface boards, and still works fine with current software. The ds_tas_master file includes the same code, but also includes the TAS mode code. TAS mode requires 2 additional wires to be soldered.
