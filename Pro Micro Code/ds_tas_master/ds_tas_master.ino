@@ -114,24 +114,6 @@ void loop() {
   }
 }
 
-void lo0op() {
-  tasInterface();
-}
-
-void lo0lop() {
-  pinMode(PWR, INPUT);
-  while (digitalRead(X_PIN)) {
-    //pass
-  }
-  //pinMode(PWR, OUTPUT);
-  //digitalWrite(PWR, LOW);
-  delay(500);
-  //delay(1000);
-  //pinMode(PWR, OUTPUT);
-  //digitalWrite(PWR, LOW);
-  //delay(1000);
-}
-
 void batteryPowerOn() {
   pinMode(PWR, INPUT);
   Serial.write("G");
